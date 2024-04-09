@@ -638,7 +638,7 @@ int flag;
  */
 
 int
-getline()
+asgetline()
 {
 	struct asmf *asmt;
 

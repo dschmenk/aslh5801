@@ -400,7 +400,7 @@ char *argv[];
 		symp = &dot;
 		mcrinit();
 		minit();
-		while ((i = getline()) != 0) {
+		while ((i = asgetline()) != 0) {
 			cp = cb;
 			cpt = cbt;
 			ep = eb;
