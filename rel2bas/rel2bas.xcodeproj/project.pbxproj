@@ -23,9 +23,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		1172EA8A2BC3020B00E36562 /* rel2bas */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = text; name = rel2bas; path = "../../../../../../../../../../Volumes/External HD/Src/aslh5801/rel2bas/rel2bas"; sourceTree = BUILT_PRODUCTS_DIR; };
-		1172EA942BC3027F00E36562 /* stdafx.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = stdafx.h; path = "/Volumes/External HD/Src/aslh5801/rel2bas/stdafx.h"; sourceTree = "<absolute>"; };
-		1172EA952BC3027F00E36562 /* rel2bas.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = rel2bas.cpp; path = "/Volumes/External HD/Src/aslh5801/rel2bas/rel2bas.cpp"; sourceTree = "<absolute>"; };
+		1172EA8A2BC3020B00E36562 /* rel2bas */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = text; path = rel2bas; sourceTree = BUILT_PRODUCTS_DIR; };
+		1172EA942BC3027F00E36562 /* stdafx.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = stdafx.h; sourceTree = SOURCE_ROOT; };
+		1172EA952BC3027F00E36562 /* rel2bas.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = rel2bas.cpp; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
